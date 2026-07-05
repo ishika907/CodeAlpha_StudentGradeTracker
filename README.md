@@ -39,4 +39,4 @@ StudentGradeTracker/
 4. Use the console menu to manage student records.
 
 ## Author
-Hariom Patidar
+Ishika Jain
